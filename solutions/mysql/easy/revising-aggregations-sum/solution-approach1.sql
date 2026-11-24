@@ -6,7 +6,7 @@
 -- Platform    HackerRank
 -- Language    mysql
 -- Status      Accepted
--- Submitted   2026-11-24, 07:38 p.m.
+-- Submitted   2026-11-24, 07:39 p.m.
 -- ──────────────────────────────────────────────────
 
 SELECT SUM(POPULATION)
